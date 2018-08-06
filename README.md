@@ -1,16 +1,17 @@
 # casper
 
-![Casper Hexo port](https://lh3.googleusercontent.com/-5doSM3lLMz4/UtDKTGB7U8I/AAAAAAAABwY/VrNrJP8RgKU/w808-h712-no/Oops%2521+Google+Chrome+could+not+connect+to+localhost-4000.jpg)
+![Casper Hexo port](https://i.loli.net/2018/08/06/5b67cf0fe9eac.jpeg
+)
 
-[Ghost Casper] hexo port, a really minimalist theme.
-Preview: [live demo](http://kywk.github.io/hexo-theme-casper)
+[kywk Casper] hexo port, a really minimalist theme.
+Preview: [live demo](https://cnachen.github.io)
 
 ## Installation
 
 ### Install
 
 ``` bash
-$ git clone https://github.com/kywk/hexo-theme-casper.git themes/casper
+$ git clone https://github.com/Cnachen/hexo-theme-casper.git themes/casper
 ```
 
 ### Enable
@@ -29,12 +30,12 @@ git pull
 
 ``` yml
 # config
-cover: //blog.ghost.org/content/images/2013/Nov/cover.png
-logo: //blog.ghost.org/content/images/2013/Nov/bloglogo_1-1.png
-bio: 'A designer, developer and entrepreneur. Spends his time travelling the world with a bag of kites. Likes journalism and publishing platforms.'
+cover: https://i.loli.net/2018/08/06/5b67cf0fe9eac.jpeg
+logo: https://i.loli.net/2018/08/05/5b66ab53bcdfc.jpg
+bio: 'A young developer, Likes coding, sleeping and eating. Also a senior high student in Jiangning, Nanjing, Jiangsu,China.'
 
 # Content
-excerpt_link: Read More
+excerpt_link: "[Read article]"
 
 # Miscellaneous
 rss:

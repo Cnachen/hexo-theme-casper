@@ -87,4 +87,4 @@ node_modules
 # User define
 #
 tmp/*
-
+*.swap
