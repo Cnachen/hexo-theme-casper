@@ -3,7 +3,7 @@
 ![Casper Hexo port](https://i.loli.net/2018/08/06/5b67cf0fe9eac.jpeg
 )
 
-[Cnachen Casper] hexo port, a really minimalist theme based on [kywk Casper](https://github.com/kywk/hexo-theme-casper).
+> [Cnachen Casper] hexo port, a really minimalist theme based on [kywk Casper](https://github.com/kywk/hexo-theme-casper).
 Preview: [live demo](https://cnachen.github.io)
 
 ## Installation
