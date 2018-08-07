@@ -3,7 +3,8 @@
 ![Casper Hexo port](https://i.loli.net/2018/08/06/5b67cf0fe9eac.jpeg
 )
 
-[kywk Casper] hexo port, a really minimalist theme.
+> [Cnachen Casper] hexo port, a really minimalist theme based on [kywk Casper](https://github.com/kywk/hexo-theme-casper).
+
 Preview: [live demo](https://cnachen.github.io)
 
 ## Installation
@@ -18,6 +19,10 @@ $ git clone https://github.com/Cnachen/hexo-theme-casper.git themes/casper
 
 Modify `theme` setting in `_config.yml` to `casper`.
 
+### Configure
+
+cd themes/casper && sh configure.sh 
+
 ### Update
 
 ``` bash
@@ -26,7 +31,7 @@ git pull
 ```
 
 
-## Configuration
+## Default
 
 ``` yml
 # config
@@ -38,13 +43,19 @@ bio: 'A young developer, Likes coding, sleeping and eating. Also a senior high s
 excerpt_link: "[Read article]"
 
 # Miscellaneous
-rss:
+rss: /atom.xml
+
+#Mathjax support
+mathjax: 
+  enable: true
+  per_page: true
+
 ```
 - **cover** - Cover for index page.
 - **logo** - Your website logo.
 - **bio** - Descript yourself.
 - **rss** - RSS subscription link (change if using Feedburner)
-- **google_analytics** - Google Analytics id.
+- **mathjax** - Configure Mathjax support.
 
 ## Original Casper Copyright & License ##
 
