@@ -2,7 +2,9 @@
 
 > 柚子社天下第一! 
 
+
 ## Galgame
+
 
 ### UNiSONSHIFT
 `あなたに恋する恋愛ルセット`
@@ -28,7 +30,7 @@
 `牛顿与苹果树`
 
 ### Palette
-    -9-nine-九个九日九色
+`-9-nine-九个九日九色`
 
 ### FrontWing
 `ISLAND`
@@ -55,7 +57,9 @@
 `缘之空`
 `悠之空`
 
+
 ## Erogame
+
 
 ### softhouse-seal GRANDEE
 `绝顶性器大发明`
