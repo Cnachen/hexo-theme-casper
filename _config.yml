@@ -3,13 +3,21 @@ cover: https://i.loli.net/2018/08/06/5b67cf0fe9eac.jpeg
 logo: https://i.loli.net/2018/08/05/5b66ab53bcdfc.jpg
 bio: 'A young developer, Likes coding, sleeping and eating. Also a senior high student in Jiangning, Nanjing, Jiangsu,China.'
 
+
 # Content
 excerpt_link: "[Read article]"
 
+
 # Miscellaneous
 rss: /atom.xml
+
 
 #Mathjax support
 mathjax:
   enable: true
   per_page: true
+
+ 
+#PS: Here's a good Image Hosting Website
+#IHW: https://sm.ms
+  #Warning: Please do NOT upload R-18 Pictures
